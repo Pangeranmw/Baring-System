@@ -321,7 +321,7 @@ header nav ul li a:hover {
     max-height: 85px;
 }
 .contact-message form button {
-    width: 90%;
+    width: 10%;
     background-color: var(--green);
     padding: 1em 1.5em;
     cursor: pointer;
